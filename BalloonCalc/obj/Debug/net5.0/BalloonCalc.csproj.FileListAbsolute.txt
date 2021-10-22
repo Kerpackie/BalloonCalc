@@ -1,0 +1,16 @@
+C:\Users\Cillian\Documents\CollegeRepos\BalloonCalc\BalloonCalc\bin\Debug\net5.0\BalloonCalc.exe
+C:\Users\Cillian\Documents\CollegeRepos\BalloonCalc\BalloonCalc\bin\Debug\net5.0\BalloonCalc.deps.json
+C:\Users\Cillian\Documents\CollegeRepos\BalloonCalc\BalloonCalc\bin\Debug\net5.0\BalloonCalc.runtimeconfig.json
+C:\Users\Cillian\Documents\CollegeRepos\BalloonCalc\BalloonCalc\bin\Debug\net5.0\BalloonCalc.runtimeconfig.dev.json
+C:\Users\Cillian\Documents\CollegeRepos\BalloonCalc\BalloonCalc\bin\Debug\net5.0\BalloonCalc.dll
+C:\Users\Cillian\Documents\CollegeRepos\BalloonCalc\BalloonCalc\bin\Debug\net5.0\ref\BalloonCalc.dll
+C:\Users\Cillian\Documents\CollegeRepos\BalloonCalc\BalloonCalc\bin\Debug\net5.0\BalloonCalc.pdb
+C:\Users\Cillian\Documents\CollegeRepos\BalloonCalc\BalloonCalc\obj\Debug\net5.0\BalloonCalc.csproj.AssemblyReference.cache
+C:\Users\Cillian\Documents\CollegeRepos\BalloonCalc\BalloonCalc\obj\Debug\net5.0\BalloonCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cillian\Documents\CollegeRepos\BalloonCalc\BalloonCalc\obj\Debug\net5.0\BalloonCalc.AssemblyInfoInputs.cache
+C:\Users\Cillian\Documents\CollegeRepos\BalloonCalc\BalloonCalc\obj\Debug\net5.0\BalloonCalc.AssemblyInfo.cs
+C:\Users\Cillian\Documents\CollegeRepos\BalloonCalc\BalloonCalc\obj\Debug\net5.0\BalloonCalc.csproj.CoreCompileInputs.cache
+C:\Users\Cillian\Documents\CollegeRepos\BalloonCalc\BalloonCalc\obj\Debug\net5.0\BalloonCalc.dll
+C:\Users\Cillian\Documents\CollegeRepos\BalloonCalc\BalloonCalc\obj\Debug\net5.0\ref\BalloonCalc.dll
+C:\Users\Cillian\Documents\CollegeRepos\BalloonCalc\BalloonCalc\obj\Debug\net5.0\BalloonCalc.pdb
+C:\Users\Cillian\Documents\CollegeRepos\BalloonCalc\BalloonCalc\obj\Debug\net5.0\BalloonCalc.genruntimeconfig.cache
